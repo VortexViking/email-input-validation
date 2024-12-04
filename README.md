@@ -19,5 +19,4 @@
 This only validates the proper domain. It does not validate whetger the email "username" is actually existing. 
 If you would like to add that functionality, fork the repository and make your changes. 
 
-### Liscense under MPL2 license 
 
